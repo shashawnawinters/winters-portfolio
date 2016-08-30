@@ -1,3 +1,21 @@
+
+##
+# Dependencies
+node_modules/
+src/vendor/
+
+##
+# System files
+.DS_Store
+
+##
+# Environment files
+.nvmrc
+
+##
+# Build results
+dist/
+
 # Logs
 logs
 *.log
